@@ -7,6 +7,8 @@ Un juego clásico desarrollado en Python usando Pygame.
 - Enemigos aleatorios y niveles crecientes.
 - Música y efectos de sonido integrados.
 
+DESCARGE TODOS LOS ARCHIVOS EN UNA MISMA CARPETA Y LUEGO EJECUTE EL PROGRAMA
+
 ## Instalación
 ```bash
 # Clona este repositorio
@@ -21,6 +23,7 @@ $ pip install -r requirements.txt1212
 # Ejecuta el juego
 $ python main.py
 ```
+
 
 ## Licencia
 Juan Capitan LICENSE
